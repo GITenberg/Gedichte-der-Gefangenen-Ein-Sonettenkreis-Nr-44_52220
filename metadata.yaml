@@ -1,5 +1,8 @@
 _repo: Gedichte-der-Gefangenen-Ein-Sonettenkreis-Nr-44_52220
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52220-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Toller, Ernst
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46729'
     url: http://www.gutenberg.org/2009/agents/46729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52220#Gedichte-der-Gefangenen-Ein-Sonettenkreis-Nr-44
 gutenberg_issued: '2016-06-02'
 gutenberg_type: Text
 identifiers:
