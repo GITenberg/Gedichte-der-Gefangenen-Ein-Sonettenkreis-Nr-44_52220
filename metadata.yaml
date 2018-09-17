@@ -1,0 +1,32 @@
+_repo: Gedichte-der-Gefangenen-Ein-Sonettenkreis-Nr-44_52220
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Toller, Ernst
+    alias: Toller, E. (Ernst)
+    birthdate: 1893
+    deathdate: 1939
+    gutenberg_agent_id: '46729'
+    url: http://www.gutenberg.org/2009/agents/46729
+description: ''
+gutenberg_issued: '2016-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52220'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+- GITenberg
+tableOfContents: Schlaflose Nacht -- Durchsuchung und Fesselung -- Wälder -- Spaziergang
+  der Sträflinge -- Begegnung in der Zelle -- Lied der Einsamkeit -- Gefangene Mädchen
+  -- Fabrikschornsteine am Vormorgen -- Die Mauer der Erschossenen -- Der Gefangene
+  und der Tod -- Pfade zur Welt -- Schwangeres Mädchen auf dem Gefängnishof -- Dämmerung
+  -- Nächte -- Verweilen um Mitternacht -- November -- Ein Gefangener reicht dem Tod
+  die Hand -- Besucher -- Gemeinsame Haft -- Entlassene Sträflinge -- Unser Weg.
+title: 'Gedichte der Gefangenen: Ein Sonettenkreis (Nr. 44)'
+url: http://www.gutenberg.org/ebooks/52220
